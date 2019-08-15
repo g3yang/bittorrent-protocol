@@ -20,7 +20,7 @@
     "unordered-array-remove": "^1.0.2"
   },
   "devDependencies": {
-    "standard": "*",
+    "standard": ">=13.1.0",
     "tape": "^4.0.0"
   },
   "keywords": [
